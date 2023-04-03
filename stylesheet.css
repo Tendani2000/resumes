@@ -136,6 +136,8 @@ p{
       top: 125px;
 }
 }
+/* On screens that are 1050px wide or less, make the menu links stack next to each other */
+@media screen and (max-width: 1050px) {}
 
 
 /*Beginning of Button*/
